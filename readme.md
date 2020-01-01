@@ -43,8 +43,8 @@ Responsive design is of the key features that are essential now that mobile grow
 
 <p align="center">
 <img width="500" src="./images/cms_home_mobile.png"  />
-__Mobile view__
 </p>
+<p align="center"><u><b>Mobile view</b></u></p>
 
 ### 2. Simplified courier request logger
 
@@ -52,8 +52,8 @@ The web form is segregated into different sections, namely â€˜Personal Detailsâ€
 
 <p align="center">
 <img width="500" src="./images/cms_pickupform.png"  />
-__Simplified web form for request logging__
 </p>
+<p align="center"><u><b>Simplified web form for request logging</b></u></p>
 
 ### 3. On-the-fly form validation
 
@@ -61,8 +61,9 @@ The form validation is done on the fly when the user starts to enter data into t
 
 <p align="center">
 <img width="500" src="./images/cms_form_validation.png"  />
-__Form validation happening as user types__
 </p>
+<p align="center"><u><b>Form validation happening as user types</b></u></p>
+
 
 If fields are either empty or invalid, its respective error messages will be displayed as shown above. The state of the fields is changed to red and a cross is showed when invalid and changed to green when successful. This is to give a visual representation of the current state of each field and which fields are needing attention, making use of constraints to guide the user through the process.
 
@@ -72,8 +73,9 @@ The one-click address lookup is a great way to simplify the form logging process
 
 <p align="center">
 <img width="500" src="./images/cms_form_validation.png"  />
-__Address lookup for ease of use__
 </p>
+<p align="center"><u><b>Address lookup for ease of use</b></u></p>
+
 
 ### 5. 2FA of mobile number
 
@@ -81,15 +83,16 @@ Verifying of customer mobile number is paramount in the courier service industry
 
 <p align="center">
 <img width="500" src="./images/cms_2fa.png"  />
-__2FA activated once user keys in all relevant information__
 </p>
+<p align="center"><u><b>2FA activated once user keys in all relevant information</b></u></p>
+
 
 Random six digits instead of an alphanumeric code are used to facilitate keying in by customers in all walks of ages. It is however not open knowledge to users that the verification key is numeric only unless the user has used the system before, for obvious security reasons.
 
 <p align="center">
 <img width="500" src="./images/cms_2fa_(2).png"  />
-__SMS containing pin sent to user__
-</p>
+</p>  
+<p align="center"><u><b>SMS containing pin sent to user</b></u></p>
 
 ### 6. Automated confirmation email
 
@@ -97,8 +100,10 @@ In the final step of scheduling for a pickup or delivery, a confirmation mail wi
 
 <p align="center">
 <img width="500" src="./images/cms_auto_confirmation.png"  />
-__Auto confirmation email sent to user__
+____
 </p>
+<p align="center"><u><b>Automated confirmation email sent to user</b></u></p>
+
 
 ### 7. Sick leave application for staff
 
@@ -106,5 +111,5 @@ There is also a way to apply for sick leave once a courier personnel has been gi
 
 <p align="center">
 <img width="500" src="./images/cms_sick_app.png"  />
-__Easy-to-use interface to report sick and links with backend__
 </p>
+<p align="center"><u><b>Easy-to-use interface to report sick and links with backend</b></u></p>
