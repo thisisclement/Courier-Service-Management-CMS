@@ -39,7 +39,7 @@ Responsive design is of the key features that are essential now that mobile grow
 <img width="500" src="./images/cms_home_banner.png"  />
 <img width="500" src="./images/cms_home_desktop.png"  />
 </p>
-<p align="center">*Tablet and desktop view*</p>
+<p align="center"><u><b>Tablet and desktop view</b></u></p>
 
 <p align="center">
 <img width="500" src="./images/cms_home_mobile.png"  />
