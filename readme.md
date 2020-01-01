@@ -5,9 +5,9 @@
 </p>
 
 #### Contents
-- [Abstract](https://github.com/thisisclement/portfolio#data-science)
-- [Problem statement]()
-- [Features]()
+- [Abstract](https://github.com/thisisclement/Courier-Management-Service-CMS#abstract)
+- [Problem statement](https://github.com/thisisclement/Courier-Management-Service-CMS#problem-statement)
+- [Features](https://github.com/thisisclement/Courier-Management-Service-CMS#features)
 
 ## Abstract
 
@@ -38,8 +38,8 @@ Responsive design is of the key features that are essential now that mobile grow
 <p align="center">
 <img width="500" src="./images/cms_home_banner.png"  />
 <img width="500" src="./images/cms_home_desktop.png"  />
-__Tablet and desktop view__
 </p>
+__Tablet and desktop view__
 
 <p align="center">
 <img width="500" src="./images/cms_home_mobile.png"  />
