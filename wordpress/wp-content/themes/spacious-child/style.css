@@ -1,0 +1,122 @@
+/*
+Theme Name: Spacious Child
+Theme URI: http://wordpress.org/themes/twentyeleven
+Author: the WordPress team
+Author URI: http://wordpress.org/
+Description: The 2011 theme for WordPress is sophisticated, lightweight, and adaptable. Make it yours with a custom menu, header image, and background -- then go further with available theme options for light or dark color scheme, custom link colors, and three layout choices. Twenty Eleven comes equipped with a Showcase page template that transforms your front page into a showcase to show off your best content, widget support galore (sidebar, three footer areas, and a Showcase page widget area), and a custom "Ephemera" widget to display your Aside, Link, Quote, or Status posts. Included are styles for print and for the admin editor, support for featured images (as custom header images on posts and pages and as large images on featured "sticky" posts), and special styles for six different post formats.
+Version: 1.7
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: dark, light, white, black, gray, one-column, two-columns, left-sidebar, right-sidebar, fixed-width, flexible-width, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-image-header, featured-images, flexible-header, full-width-template, microformats, post-formats, rtl-language-support, sticky-post, theme-options, translation-ready
+Text Domain: twentyeleven
+Template: spacious
+*/
+
+/* =Reset default browser CSS. Based on work by Eric Meyer: http://meyerweb.com/eric/tools/css/reset/index.html
+-------------------------------------------------------------- */
+
+@import url("../spacious/style.css");
+
+/*jun sheng datepicker css*/
+.ui-datepicker-trigger { 
+
+margin-left:0.5%;
+margin-top:1.2%;
+
+}
+
+/*remove the hovering issue for parent-children menu from bootstrap by overriding it*/
+a {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+a:before,
+a:after {
+  -webkit-box-sizing: content-box;
+     -moz-box-sizing: content-box;
+          box-sizing: content-box;
+}
+
+
+/*clement css */
+/*p {
+display: inline;
+margin: 0;
+padding: 0;
+}
+
+.entry-content br {
+display: none;
+}*/
+
+.breadcrumb {
+	background-color:#FFFFFF;
+}
+small.help-block {
+	font-size: small;
+}
+
+input.form-control{
+	margin: 0 0 10px;
+}
+/*p {
+display: inline;
+margin: 0;
+padding: 0;
+}
+
+.entry-content br {
+display: none;
+}
+
+.breadcrumb {
+	background-color:#FFFFFF;
+}
+small.help-block {
+	font-size: small;
+}
+
+input.form-control{
+	margin: 0 0 10px;
+}*/
+
+/*.entry-content {
+display: block;
+width: 100%;
+height: 10px;
+}*/
+
+/*
+#main,
+.singular.page .hentry {padding:0;}*/
+
+/*.comments-area{
+	display: none;
+}*/
+
+/*.footer-socket-wrapper.clearfix{
+	display:none;
+}*/
+
+/*.footer-widgets-wrapper{
+	width:1268px;
+	height: 200px;
+	margin-left: auto;
+    margin-right: auto;
+}
+
+.footer-socket-wrapper.clearfix{
+	width:1268px;
+	margin-left: auto;
+    margin-right: auto;
+}*/
+
+/*.site-content .entry-header,
+.site-content .entry-content,
+.site-content .entry-summary,
+.site-content .entry-meta,
+.page-content {
+	max-width: 1000px;
+}*/
+

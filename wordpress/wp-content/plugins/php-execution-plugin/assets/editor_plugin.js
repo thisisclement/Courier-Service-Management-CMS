@@ -1,0 +1,14 @@
+/**
+ * WP PHP Execution plugin.
+ *
+ * Copyright 2009 N. Zeh (http://www.zehnet.de/)
+ */
+if(typeof(wpTinyMceEditor)=="undefined"){wpTinyMceEditor={pres:[],posts:[],inited:false,numCalls:0,init:function(){if(!this.inited){switchEditors.___pre_wpautop=switchEditors.pre_wpautop;switchEditors.pre_wpautop=this.pre_wpautop;switchEditors.___wpautop=switchEditors.wpautop;switchEditors.wpautop=this.wpautop;
+this.inited=true;}},pre_wpautop:function(c){if(wpTinyMceEditor.numCalls==0){c=switchEditors.___pre_wpautop(c);for(var a=0,b=wpTinyMceEditor.posts,d=b.length;a<d;a++){c=b[a](c);}wpTinyMceEditor.numCalls++;}return c;},wpautop:function(c){wpTinyMceEditor.numCalls=0;for(var a=0,b=wpTinyMceEditor.pres,d=b.length;
+a<d;a++){c=b[a](c);}return switchEditors.___wpautop(c);},onSetEditorContent:function(a){this.pres.push(a);},onSetPostContent:function(a){this.posts.push(a);}};}phpExecution={baseUrl:phpExecutionBaseUrl,domready:function(){wpTinyMceEditor.onSetEditorContent(this.setEditorContent);wpTinyMceEditor.onSetPostContent(this.setPostContent);
+tinymce.create("tinymce.plugins.phpExecution",this);tinymce.PluginManager.add("phpExecution",tinymce.plugins.phpExecution);},init:function(a,b){var c=this;this.baseUrl=b;a.onInit.add(function(){a.dom.loadCSS(b+"/editor_plugin.css");});a.onPostRender.add(function(){if(a.theme.onResolveName){a.theme.onResolveName.add(function(d,e){if(e.node.nodeName=="IMG"&&a.dom.hasClass(e.node,"mceWpPHP")){e.name="php";
+}});}});},setEditorContent:function(a){return a.replace(/<\?php([\s\S]*?)\?>/gi,function(b){return'<img src="'+phpExecution.baseUrl+'/assets/trans.gif" class="mceWpPHP mceItemNoResize" title="php" alt="'+phpExecution.base64encode(b)+'" />';});},setPostContent:function(a){return a.replace(/<img[^>]+class="mceWpPHP[^>]+>/g,function(b){var c=(m=b.match(/alt="(.*?)"/))?m[1]:"";
+return phpExecution.base64decode(c);});},keyStr:"ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=",base64encode:function(c){var a="";var k,h,f;var j,g,e,d;var b=0;do{k=c.charCodeAt(b++);h=c.charCodeAt(b++);f=c.charCodeAt(b++);j=k>>2;g=((k&3)<<4)|(h>>4);e=((h&15)<<2)|(f>>6);d=f&63;if(isNaN(h)){e=d=64;
+}else{if(isNaN(f)){d=64;}}a+=this.keyStr.charAt(j)+this.keyStr.charAt(g)+this.keyStr.charAt(e)+this.keyStr.charAt(d);}while(b<c.length);return a;},base64decode:function(c){var a="";var k,h,f;var j,g,e,d;var b=0;c=c.replace(/[^A-Za-z0-9\+\/\=]/g,"");do{j=this.keyStr.indexOf(c.charAt(b++));g=this.keyStr.indexOf(c.charAt(b++));
+e=this.keyStr.indexOf(c.charAt(b++));d=this.keyStr.indexOf(c.charAt(b++));k=(j<<2)|(g>>4);h=((g&15)<<4)|(e>>2);f=((e&3)<<6)|d;a+=String.fromCharCode(k);if(e!=64){a+=String.fromCharCode(h);}if(d!=64){a+=String.fromCharCode(f);}}while(b<c.length);return a;}};(function(a){a(document).ready(function(){wpTinyMceEditor.init();
+phpExecution.domready();});})(jQuery);

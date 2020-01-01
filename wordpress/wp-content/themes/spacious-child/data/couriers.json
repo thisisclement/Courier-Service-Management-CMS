@@ -1,0 +1,100 @@
+{
+    "couriers": [
+        {
+            "cid": "C01",
+            "name": "Name1",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C02",
+            "name": "Name2",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C03",
+            "name": "Name3",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C04",
+            "name": "Name4",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C05",
+            "name": "Name5",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C06",
+            "name": "Name6",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C07",
+            "name": "Name7",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C08",
+            "name": "Name8",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C09",
+            "name": "Name9",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C10",
+            "name": "Name10",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C11",
+            "name": "Name11",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        },
+        {
+            "cid": "C12",
+            "name": "Name12",
+            "sick status": "0",
+            "sick leaves": "0",
+            "sick expiry date": "0",
+            "allocated": "0"
+        }
+    ]
+}

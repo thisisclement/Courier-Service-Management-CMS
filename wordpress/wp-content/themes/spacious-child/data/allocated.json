@@ -1,0 +1,2825 @@
+[
+    [
+        {
+            "tid": "T98",
+            "postalcode": "P98",
+            "address": "A98",
+            "latlng": {
+                "lat": "1.388674",
+                "lng": "103.797516"
+            },
+            "lat": "1.388674",
+            "lng": "103.797516",
+            "distance": 4.1223959795196e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T1",
+            "postalcode": "P1",
+            "address": "A1",
+            "latlng": {
+                "lat": "1.382748",
+                "lng": "103.801952"
+            },
+            "lat": "1.382748",
+            "lng": "103.801952",
+            "distance": 2.6323982063554e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T41",
+            "postalcode": "P41",
+            "address": "A41",
+            "latlng": {
+                "lat": "1.387658",
+                "lng": "103.810245"
+            },
+            "lat": "1.387658",
+            "lng": "103.810245",
+            "distance": 2.8381004970955e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T55",
+            "postalcode": "P55",
+            "address": "A55",
+            "latlng": {
+                "lat": "1.377958",
+                "lng": "103.806025"
+            },
+            "lat": "1.377958",
+            "lng": "103.806025",
+            "distance": 1.6355891191426e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T54",
+            "postalcode": "P54",
+            "address": "A54",
+            "latlng": {
+                "lat": "1.378564",
+                "lng": "103.809035"
+            },
+            "lat": "1.378564",
+            "lng": "103.809035",
+            "distance": 1.5170130100938e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T74",
+            "postalcode": "P74",
+            "address": "A74",
+            "latlng": {
+                "lat": "1.370840",
+                "lng": "103.803927"
+            },
+            "lat": "1.370840",
+            "lng": "103.803927",
+            "distance": 1.0979060218009e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T64",
+            "postalcode": "P64",
+            "address": "A64",
+            "latlng": {
+                "lat": "1.376591",
+                "lng": "103.819305"
+            },
+            "lat": "1.376591",
+            "lng": "103.819305",
+            "distance": 1.0409814374829e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T84",
+            "postalcode": "P84",
+            "address": "A84",
+            "latlng": {
+                "lat": "1.370222",
+                "lng": "103.814844"
+            },
+            "lat": "1.370222",
+            "lng": "103.814844",
+            "distance": 4.7530474081466e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T32",
+            "postalcode": "P32",
+            "address": "A32",
+            "latlng": {
+                "lat": "1.373635",
+                "lng": "103.821256"
+            },
+            "lat": "1.373635",
+            "lng": "103.821256",
+            "distance": 7.6202296571814e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T86",
+            "postalcode": "P86",
+            "address": "A86",
+            "latlng": {
+                "lat": "1.362951",
+                "lng": "103.812069"
+            },
+            "lat": "1.362951",
+            "lng": "103.812069",
+            "distance": 1.7907928629722e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T72",
+            "postalcode": "P72",
+            "address": "A72",
+            "latlng": {
+                "lat": "1.362261",
+                "lng": "103.811459"
+            },
+            "lat": "1.362261",
+            "lng": "103.811459",
+            "distance": 1.836828494191e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T35",
+            "postalcode": "P35",
+            "address": "A35",
+            "latlng": {
+                "lat": "1.378466",
+                "lng": "103.827256"
+            },
+            "lat": "1.378466",
+            "lng": "103.827256",
+            "distance": 1.5159537018765e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T45",
+            "postalcode": "P45",
+            "address": "A45",
+            "latlng": {
+                "lat": "1.355314",
+                "lng": "103.812784"
+            },
+            "lat": "1.355314",
+            "lng": "103.812784",
+            "distance": 1.0879230474122e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T88",
+            "postalcode": "P88",
+            "address": "A88",
+            "latlng": {
+                "lat": "1.361303",
+                "lng": "103.822073"
+            },
+            "lat": "1.361303",
+            "lng": "103.822073",
+            "distance": 7.9734745308296e-9,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T42",
+            "postalcode": "P42",
+            "address": "A42",
+            "latlng": {
+                "lat": "1.349835",
+                "lng": "103.812317"
+            },
+            "lat": "1.349835",
+            "lng": "103.812317",
+            "distance": 3.104664476203e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T95",
+            "postalcode": "P95",
+            "address": "A95",
+            "latlng": {
+                "lat": "1.366788",
+                "lng": "103.834626"
+            },
+            "lat": "1.366788",
+            "lng": "103.834626",
+            "distance": 1.0648334473278e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T52",
+            "postalcode": "P52",
+            "address": "A52",
+            "latlng": {
+                "lat": "1.352320",
+                "lng": "103.820841"
+            },
+            "lat": "1.352320",
+            "lng": "103.820841",
+            "distance": 1.2726706072313e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T2",
+            "postalcode": "P2",
+            "address": "A2",
+            "latlng": {
+                "lat": "1.352563",
+                "lng": "103.823754"
+            },
+            "lat": "1.352563",
+            "lng": "103.823754",
+            "distance": 1.9427935513494e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T79",
+            "postalcode": "P79",
+            "address": "A79",
+            "latlng": {
+                "lat": "1.348539",
+                "lng": "103.817153"
+            },
+            "lat": "1.348539",
+            "lng": "103.817153",
+            "distance": 2.8368300058561e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T97",
+            "postalcode": "P97",
+            "address": "A97",
+            "latlng": {
+                "lat": "1.349744",
+                "lng": "103.819983"
+            },
+            "lat": "1.349744",
+            "lng": "103.819983",
+            "distance": 2.265730554243e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T17",
+            "postalcode": "P17",
+            "address": "A17",
+            "latlng": {
+                "lat": "1.347418",
+                "lng": "103.815563"
+            },
+            "lat": "1.347418",
+            "lng": "103.815563",
+            "distance": 3.6948172219579e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T12",
+            "postalcode": "P12",
+            "address": "A12",
+            "latlng": {
+                "lat": "1.344968",
+                "lng": "103.810052"
+            },
+            "lat": "1.344968",
+            "lng": "103.810052",
+            "distance": 7.2378917814574e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T22",
+            "postalcode": "P22",
+            "address": "A22",
+            "latlng": {
+                "lat": "1.342560",
+                "lng": "103.805612"
+            },
+            "lat": "1.342560",
+            "lng": "103.805612",
+            "distance": 1.2110819254004e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T73",
+            "postalcode": "P73",
+            "address": "A73",
+            "latlng": {
+                "lat": "1.340984",
+                "lng": "103.813848"
+            },
+            "lat": "1.340984",
+            "lng": "103.813848",
+            "distance": 9.510724993198e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T8",
+            "postalcode": "P8",
+            "address": "A8",
+            "latlng": {
+                "lat": "1.352210",
+                "lng": "103.835147"
+            },
+            "lat": "1.352210",
+            "lng": "103.835147",
+            "distance": 9.9829230829617e-8,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T44",
+            "postalcode": "P44",
+            "address": "A44",
+            "latlng": {
+                "lat": "1.364597",
+                "lng": "103.845299"
+            },
+            "lat": "1.364597",
+            "lng": "103.845299",
+            "distance": 2.3892486757364e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T69",
+            "postalcode": "P69",
+            "address": "A69",
+            "latlng": {
+                "lat": "1.338717",
+                "lng": "103.821878"
+            },
+            "lat": "1.338717",
+            "lng": "103.821878",
+            "distance": 1.194856266636e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T57",
+            "postalcode": "P57",
+            "address": "A57",
+            "latlng": {
+                "lat": "1.336826",
+                "lng": "103.823595"
+            },
+            "lat": "1.336826",
+            "lng": "103.823595",
+            "distance": 1.4786758176648e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T29",
+            "postalcode": "P29",
+            "address": "A29",
+            "latlng": {
+                "lat": "1.331202",
+                "lng": "103.812224"
+            },
+            "lat": "1.331202",
+            "lng": "103.812224",
+            "distance": 2.315006262495e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T9",
+            "postalcode": "P9",
+            "address": "A9",
+            "latlng": {
+                "lat": "1.334800",
+                "lng": "103.826400"
+            },
+            "lat": "1.334800",
+            "lng": "103.826400",
+            "distance": 1.8731607379367e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T76",
+            "postalcode": "P76",
+            "address": "A76",
+            "latlng": {
+                "lat": "1.333006",
+                "lng": "103.823294"
+            },
+            "lat": "1.333006",
+            "lng": "103.823294",
+            "distance": 2.0094459794483e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T92",
+            "postalcode": "P92",
+            "address": "A92",
+            "latlng": {
+                "lat": "1.346471",
+                "lng": "103.846124"
+            },
+            "lat": "1.346471",
+            "lng": "103.846124",
+            "distance": 2.8169566012298e-7,
+            "color": "red",
+            "region": "Test"
+        },
+        {
+            "tid": "T18",
+            "postalcode": "P18",
+            "address": "A18",
+            "latlng": {
+                "lat": "1.332054",
+                "lng": "103.779332"
+            },
+            "lat": "1.332054",
+            "lng": "103.779332",
+            "distance": 1.769778561728e-7,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T83",
+            "postalcode": "P83",
+            "address": "A83",
+            "latlng": {
+                "lat": "1.333449",
+                "lng": "103.788544"
+            },
+            "lat": "1.333449",
+            "lng": "103.788544",
+            "distance": 2.1766125296628e-7,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T4",
+            "postalcode": "P4",
+            "address": "A4",
+            "latlng": {
+                "lat": "1.348185",
+                "lng": "103.787491"
+            },
+            "lat": "1.348185",
+            "lng": "103.787491",
+            "distance": 7.7445846109246e-8,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T47",
+            "postalcode": "P47",
+            "address": "A47",
+            "latlng": {
+                "lat": "1.351764",
+                "lng": "103.771758"
+            },
+            "lat": "1.351764",
+            "lng": "103.771758",
+            "distance": 4.674049909199e-9,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T46",
+            "postalcode": "P46",
+            "address": "A46",
+            "latlng": {
+                "lat": "1.351807",
+                "lng": "103.790081"
+            },
+            "lat": "1.351807",
+            "lng": "103.790081",
+            "distance": 9.0058750918422e-8,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T37",
+            "postalcode": "P37",
+            "address": "A37",
+            "latlng": {
+                "lat": "1.355488",
+                "lng": "103.786940"
+            },
+            "lat": "1.355488",
+            "lng": "103.786940",
+            "distance": 5.6992277168187e-8,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T67",
+            "postalcode": "P67",
+            "address": "A67",
+            "latlng": {
+                "lat": "1.358969",
+                "lng": "103.757309"
+            },
+            "lat": "1.358969",
+            "lng": "103.757309",
+            "distance": 8.1448138639305e-8,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T70",
+            "postalcode": "P70",
+            "address": "A70",
+            "latlng": {
+                "lat": "1.356712",
+                "lng": "103.753550"
+            },
+            "lat": "1.356712",
+            "lng": "103.753550",
+            "distance": 1.1890482647188e-7,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T58",
+            "postalcode": "P58",
+            "address": "A58",
+            "latlng": {
+                "lat": "1.372550",
+                "lng": "103.770475"
+            },
+            "lat": "1.372550",
+            "lng": "103.770475",
+            "distance": 9.2161568425888e-8,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T15",
+            "postalcode": "P15",
+            "address": "A15",
+            "latlng": {
+                "lat": "1.373489",
+                "lng": "103.787251"
+            },
+            "lat": "1.373489",
+            "lng": "103.787251",
+            "distance": 1.5949559682497e-7,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T43",
+            "postalcode": "P43",
+            "address": "A43",
+            "latlng": {
+                "lat": "1.383592",
+                "lng": "103.785763"
+            },
+            "lat": "1.383592",
+            "lng": "103.785763",
+            "distance": 2.9003866119577e-7,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T23",
+            "postalcode": "P23",
+            "address": "A23",
+            "latlng": {
+                "lat": "1.346511",
+                "lng": "103.720652"
+            },
+            "lat": "1.346511",
+            "lng": "103.720652",
+            "distance": 8.670945759696e-7,
+            "color": "yellow",
+            "region": "Test"
+        },
+        {
+            "tid": "T87",
+            "postalcode": "P87",
+            "address": "A87",
+            "latlng": {
+                "lat": "1.357289",
+                "lng": "103.862451"
+            },
+            "lat": "1.357289",
+            "lng": "103.862451",
+            "distance": 1.8267054613463e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T71",
+            "postalcode": "P71",
+            "address": "A71",
+            "latlng": {
+                "lat": "1.348296",
+                "lng": "103.855709"
+            },
+            "lat": "1.348296",
+            "lng": "103.855709",
+            "distance": 1.9980966040274e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T78",
+            "postalcode": "P78",
+            "address": "A78",
+            "latlng": {
+                "lat": "1.356282",
+                "lng": "103.877104"
+            },
+            "lat": "1.356282",
+            "lng": "103.877104",
+            "distance": 8.1115526483932e-8,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T62",
+            "postalcode": "P62",
+            "address": "A62",
+            "latlng": {
+                "lat": "1.342339",
+                "lng": "103.868156"
+            },
+            "lat": "1.342339",
+            "lng": "103.868156",
+            "distance": 4.4204114463257e-8,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T19",
+            "postalcode": "P19",
+            "address": "A19",
+            "latlng": {
+                "lat": "1.341474",
+                "lng": "103.858343"
+            },
+            "lat": "1.341474",
+            "lng": "103.858343",
+            "distance": 1.4355225228165e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T75",
+            "postalcode": "P75",
+            "address": "A75",
+            "latlng": {
+                "lat": "1.329708",
+                "lng": "103.870601"
+            },
+            "lat": "1.329708",
+            "lng": "103.870601",
+            "distance": 6.0695234535695e-8,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T91",
+            "postalcode": "P91",
+            "address": "A91",
+            "latlng": {
+                "lat": "1.361266",
+                "lng": "103.891648"
+            },
+            "lat": "1.361266",
+            "lng": "103.891648",
+            "distance": 1.7607403885049e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T63",
+            "postalcode": "P63",
+            "address": "A63",
+            "latlng": {
+                "lat": "1.324357",
+                "lng": "103.877281"
+            },
+            "lat": "1.324357",
+            "lng": "103.877281",
+            "distance": 7.8983578428177e-8,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T53",
+            "postalcode": "P53",
+            "address": "A53",
+            "latlng": {
+                "lat": "1.355187",
+                "lng": "103.900080"
+            },
+            "lat": "1.355187",
+            "lng": "103.900080",
+            "distance": 1.908218055687e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T89",
+            "postalcode": "P89",
+            "address": "A89",
+            "latlng": {
+                "lat": "1.317667",
+                "lng": "103.862072"
+            },
+            "lat": "1.317667",
+            "lng": "103.862072",
+            "distance": 2.5309304933556e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T25",
+            "postalcode": "P25",
+            "address": "A25",
+            "latlng": {
+                "lat": "1.339102",
+                "lng": "103.903607"
+            },
+            "lat": "1.339102",
+            "lng": "103.903607",
+            "distance": 1.699226107733e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T7",
+            "postalcode": "P7",
+            "address": "A7",
+            "latlng": {
+                "lat": "1.342343",
+                "lng": "103.916097"
+            },
+            "lat": "1.342343",
+            "lng": "103.916097",
+            "distance": 3.9794033574754e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T11",
+            "postalcode": "P11",
+            "address": "A11",
+            "latlng": {
+                "lat": "1.307622",
+                "lng": "103.897052"
+            },
+            "lat": "1.307622",
+            "lng": "103.897052",
+            "distance": 4.1221876001299e-7,
+            "color": "green",
+            "region": "Test"
+        },
+        {
+            "tid": "T59",
+            "postalcode": "P59",
+            "address": "A59",
+            "latlng": {
+                "lat": "1.406662",
+                "lng": "103.780138"
+            },
+            "lat": "1.406662",
+            "lng": "103.780138",
+            "distance": 1.8320422163131e-7,
+            "color": "blue",
+            "region": "Test"
+        },
+        {
+            "tid": "T81",
+            "postalcode": "P81",
+            "address": "A81",
+            "latlng": {
+                "lat": "1.404382",
+                "lng": "103.762831"
+            },
+            "lat": "1.404382",
+            "lng": "103.762831",
+            "distance": 1.6320274121582e-8,
+            "color": "blue",
+            "region": "Test"
+        },
+        {
+            "tid": "T66",
+            "postalcode": "P66",
+            "address": "A66",
+            "latlng": {
+                "lat": "1.423879",
+                "lng": "103.767733"
+            },
+            "lat": "1.423879",
+            "lng": "103.767733",
+            "distance": 1.4517773322773e-7,
+            "color": "blue",
+            "region": "Test"
+        },
+        {
+            "tid": "T27",
+            "postalcode": "P27",
+            "address": "A27",
+            "latlng": {
+                "lat": "1.400747",
+                "lng": "103.737030"
+            },
+            "lat": "1.400747",
+            "lng": "103.737030",
+            "distance": 1.1291321424364e-7,
+            "color": "blue",
+            "region": "Test"
+        },
+        {
+            "tid": "T90",
+            "postalcode": "P90",
+            "address": "A90",
+            "latlng": {
+                "lat": "1.392872",
+                "lng": "103.730431"
+            },
+            "lat": "1.392872",
+            "lng": "103.730431",
+            "distance": 2.4366158775017e-7,
+            "color": "blue",
+            "region": "Test"
+        },
+        {
+            "tid": "T33",
+            "postalcode": "P33",
+            "address": "A33",
+            "latlng": {
+                "lat": "1.267437",
+                "lng": "103.836989"
+            },
+            "lat": "1.267437",
+            "lng": "103.836989",
+            "distance": 2.2712994899182e-7,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T24",
+            "postalcode": "P24",
+            "address": "A24",
+            "latlng": {
+                "lat": "1.265254",
+                "lng": "103.847562"
+            },
+            "lat": "1.265254",
+            "lng": "103.847562",
+            "distance": 3.1099149058092e-7,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T34",
+            "postalcode": "P34",
+            "address": "A34",
+            "latlng": {
+                "lat": "1.264565",
+                "lng": "103.808671"
+            },
+            "lat": "1.264565",
+            "lng": "103.808671",
+            "distance": 4.8910065615719e-7,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T94",
+            "postalcode": "P94",
+            "address": "A94",
+            "latlng": {
+                "lat": "1.298912",
+                "lng": "103.834814"
+            },
+            "lat": "1.298912",
+            "lng": "103.834814",
+            "distance": 5.4864971179503e-9,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T85",
+            "postalcode": "P85",
+            "address": "A85",
+            "latlng": {
+                "lat": "1.303123",
+                "lng": "103.824973"
+            },
+            "lat": "1.303123",
+            "lng": "103.824973",
+            "distance": 5.3003025696886e-8,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T21",
+            "postalcode": "P21",
+            "address": "A21",
+            "latlng": {
+                "lat": "1.316167",
+                "lng": "103.848431"
+            },
+            "lat": "1.316167",
+            "lng": "103.848431",
+            "distance": 1.9474822550116e-7,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T28",
+            "postalcode": "P28",
+            "address": "A28",
+            "latlng": {
+                "lat": "1.316903",
+                "lng": "103.849377"
+            },
+            "lat": "1.316903",
+            "lng": "103.849377",
+            "distance": 2.1250092145274e-7,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T31",
+            "postalcode": "P31",
+            "address": "A31",
+            "latlng": {
+                "lat": "1.325064",
+                "lng": "103.830033"
+            },
+            "lat": "1.325064",
+            "lng": "103.830033",
+            "distance": 2.8909389220431e-7,
+            "color": "brown",
+            "region": "Test"
+        },
+        {
+            "tid": "T50",
+            "postalcode": "P50",
+            "address": "A50",
+            "latlng": {
+                "lat": "1.445517",
+                "lng": "103.831403"
+            },
+            "lat": "1.445517",
+            "lng": "103.831403",
+            "distance": 1.4616116236594e-7,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T39",
+            "postalcode": "P39",
+            "address": "A39",
+            "latlng": {
+                "lat": "1.441644",
+                "lng": "103.825823"
+            },
+            "lat": "1.441644",
+            "lng": "103.825823",
+            "distance": 7.3745518964008e-8,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T16",
+            "postalcode": "P16",
+            "address": "A16",
+            "latlng": {
+                "lat": "1.434850",
+                "lng": "103.835119"
+            },
+            "lat": "1.434850",
+            "lng": "103.835119",
+            "distance": 1.028918158207e-7,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T80",
+            "postalcode": "P80",
+            "address": "A80",
+            "latlng": {
+                "lat": "1.434296",
+                "lng": "103.829603"
+            },
+            "lat": "1.434296",
+            "lng": "103.829603",
+            "distance": 5.2428540580704e-8,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T30",
+            "postalcode": "P30",
+            "address": "A30",
+            "latlng": {
+                "lat": "1.438932",
+                "lng": "103.810600"
+            },
+            "lat": "1.438932",
+            "lng": "103.810600",
+            "distance": 5.1671826070236e-8,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T3",
+            "postalcode": "P3",
+            "address": "A3",
+            "latlng": {
+                "lat": "1.422853",
+                "lng": "103.817479"
+            },
+            "lat": "1.422853",
+            "lng": "103.817479",
+            "distance": 8.7983192611648e-9,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T56",
+            "postalcode": "P56",
+            "address": "A56",
+            "latlng": {
+                "lat": "1.418974",
+                "lng": "103.820687"
+            },
+            "lat": "1.418974",
+            "lng": "103.820687",
+            "distance": 2.8173534372418e-8,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T20",
+            "postalcode": "P20",
+            "address": "A20",
+            "latlng": {
+                "lat": "1.404339",
+                "lng": "103.814786"
+            },
+            "lat": "1.404339",
+            "lng": "103.814786",
+            "distance": 1.7659996397226e-7,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T82",
+            "postalcode": "P82",
+            "address": "A82",
+            "latlng": {
+                "lat": "1.400961",
+                "lng": "103.812204"
+            },
+            "lat": "1.400961",
+            "lng": "103.812204",
+            "distance": 2.3625081459259e-7,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T13",
+            "postalcode": "P13",
+            "address": "A13",
+            "latlng": {
+                "lat": "1.439669",
+                "lng": "103.782139"
+            },
+            "lat": "1.439669",
+            "lng": "103.782139",
+            "distance": 4.3144281792159e-7,
+            "color": "purple",
+            "region": "Test"
+        },
+        {
+            "tid": "T48",
+            "postalcode": "P48",
+            "address": "A48",
+            "latlng": {
+                "lat": "1.378022",
+                "lng": "103.852105"
+            },
+            "lat": "1.378022",
+            "lng": "103.852105",
+            "distance": 1.0482365766474e-7,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T14",
+            "postalcode": "P14",
+            "address": "A14",
+            "latlng": {
+                "lat": "1.372702",
+                "lng": "103.857401"
+            },
+            "lat": "1.372702",
+            "lng": "103.857401",
+            "distance": 1.0803611614885e-7,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T93",
+            "postalcode": "P93",
+            "address": "A93",
+            "latlng": {
+                "lat": "1.383462",
+                "lng": "103.844862"
+            },
+            "lat": "1.383462",
+            "lng": "103.844862",
+            "distance": 1.609211544162e-7,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T36",
+            "postalcode": "P36",
+            "address": "A36",
+            "latlng": {
+                "lat": "1.376868",
+                "lng": "103.841900"
+            },
+            "lat": "1.376868",
+            "lng": "103.841900",
+            "distance": 2.385139329917e-7,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T60",
+            "postalcode": "P60",
+            "address": "A60",
+            "latlng": {
+                "lat": "1.385712",
+                "lng": "103.859128"
+            },
+            "lat": "1.385712",
+            "lng": "103.859128",
+            "distance": 2.2818420996947e-8,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T61",
+            "postalcode": "P61",
+            "address": "A61",
+            "latlng": {
+                "lat": "1.376435",
+                "lng": "103.879087"
+            },
+            "lat": "1.376435",
+            "lng": "103.879087",
+            "distance": 8.9201717308378e-8,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T5",
+            "postalcode": "P5",
+            "address": "A5",
+            "latlng": {
+                "lat": "1.407180",
+                "lng": "103.888896"
+            },
+            "lat": "1.407180",
+            "lng": "103.888896",
+            "distance": 2.463113141691e-7,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T38",
+            "postalcode": "P38",
+            "address": "A38",
+            "latlng": {
+                "lat": "1.413275",
+                "lng": "103.884537"
+            },
+            "lat": "1.413275",
+            "lng": "103.884537",
+            "distance": 2.7423047140666e-7,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T26",
+            "postalcode": "P26",
+            "address": "A26",
+            "latlng": {
+                "lat": "1.405265",
+                "lng": "103.897110"
+            },
+            "lat": "1.405265",
+            "lng": "103.897110",
+            "distance": 3.5494771109344e-7,
+            "color": "grey",
+            "region": "Test"
+        },
+        {
+            "tid": "T99",
+            "postalcode": "P99",
+            "address": "A99",
+            "latlng": {
+                "lat": "1.327171",
+                "lng": "103.762274"
+            },
+            "lat": "1.327171",
+            "lng": "103.762274",
+            "distance": 1.8367129130323e-7,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T65",
+            "postalcode": "P65",
+            "address": "A65",
+            "latlng": {
+                "lat": "1.313851",
+                "lng": "103.754707"
+            },
+            "lat": "1.313851",
+            "lng": "103.754707",
+            "distance": 9.5682153955209e-8,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T6",
+            "postalcode": "P6",
+            "address": "A6",
+            "latlng": {
+                "lat": "1.323799",
+                "lng": "103.790273"
+            },
+            "lat": "1.323799",
+            "lng": "103.790273",
+            "distance": 2.5994395159723e-7,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T10",
+            "postalcode": "P10",
+            "address": "A10",
+            "latlng": {
+                "lat": "1.308978",
+                "lng": "103.785090"
+            },
+            "lat": "1.308978",
+            "lng": "103.785090",
+            "distance": 8.6035341971711e-8,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T49",
+            "postalcode": "P49",
+            "address": "A49",
+            "latlng": {
+                "lat": "1.296420",
+                "lng": "103.759712"
+            },
+            "lat": "1.296420",
+            "lng": "103.759712",
+            "distance": 4.2948126336856e-8,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T68",
+            "postalcode": "P68",
+            "address": "A68",
+            "latlng": {
+                "lat": "1.303669",
+                "lng": "103.783455"
+            },
+            "lat": "1.303669",
+            "lng": "103.783455",
+            "distance": 6.2189621290651e-8,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T96",
+            "postalcode": "P96",
+            "address": "A96",
+            "latlng": {
+                "lat": "1.296613",
+                "lng": "103.750096"
+            },
+            "lat": "1.296613",
+            "lng": "103.750096",
+            "distance": 1.2567219417013e-7,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T40",
+            "postalcode": "P40",
+            "address": "A40",
+            "latlng": {
+                "lat": "1.297908",
+                "lng": "103.743709"
+            },
+            "lat": "1.297908",
+            "lng": "103.743709",
+            "distance": 2.0730268388791e-7,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T100",
+            "postalcode": "P100",
+            "address": "A100",
+            "latlng": {
+                "lat": "1.321679",
+                "lng": "103.799086"
+            },
+            "lat": "1.321679",
+            "lng": "103.799086",
+            "distance": 3.7221078548459e-7,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T51",
+            "postalcode": "P51",
+            "address": "A51",
+            "latlng": {
+                "lat": "1.279858",
+                "lng": "103.757461"
+            },
+            "lat": "1.279858",
+            "lng": "103.757461",
+            "distance": 2.1349280062899e-7,
+            "color": "white",
+            "region": "Test"
+        },
+        {
+            "tid": "T77",
+            "postalcode": "P77",
+            "address": "A77",
+            "latlng": {
+                "lat": "1.269688",
+                "lng": "103.774972"
+            },
+            "lat": "1.269688",
+            "lng": "103.774972",
+            "distance": 3.6064677628937e-7,
+            "color": "white",
+            "region": "Test"
+        }
+    ],
+    {
+        "Test": {
+            "C12 Name12": [
+                {
+                    "tid": "T98",
+                    "postalcode": "P98",
+                    "address": "A98",
+                    "latlng": {
+                        "lat": "1.388674",
+                        "lng": "103.797516"
+                    },
+                    "lat": "1.388674",
+                    "lng": "103.797516",
+                    "distance": 4.1223959795196e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T1",
+                    "postalcode": "P1",
+                    "address": "A1",
+                    "latlng": {
+                        "lat": "1.382748",
+                        "lng": "103.801952"
+                    },
+                    "lat": "1.382748",
+                    "lng": "103.801952",
+                    "distance": 2.6323982063554e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T41",
+                    "postalcode": "P41",
+                    "address": "A41",
+                    "latlng": {
+                        "lat": "1.387658",
+                        "lng": "103.810245"
+                    },
+                    "lat": "1.387658",
+                    "lng": "103.810245",
+                    "distance": 2.8381004970955e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T55",
+                    "postalcode": "P55",
+                    "address": "A55",
+                    "latlng": {
+                        "lat": "1.377958",
+                        "lng": "103.806025"
+                    },
+                    "lat": "1.377958",
+                    "lng": "103.806025",
+                    "distance": 1.6355891191426e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T54",
+                    "postalcode": "P54",
+                    "address": "A54",
+                    "latlng": {
+                        "lat": "1.378564",
+                        "lng": "103.809035"
+                    },
+                    "lat": "1.378564",
+                    "lng": "103.809035",
+                    "distance": 1.5170130100938e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T74",
+                    "postalcode": "P74",
+                    "address": "A74",
+                    "latlng": {
+                        "lat": "1.370840",
+                        "lng": "103.803927"
+                    },
+                    "lat": "1.370840",
+                    "lng": "103.803927",
+                    "distance": 1.0979060218009e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T64",
+                    "postalcode": "P64",
+                    "address": "A64",
+                    "latlng": {
+                        "lat": "1.376591",
+                        "lng": "103.819305"
+                    },
+                    "lat": "1.376591",
+                    "lng": "103.819305",
+                    "distance": 1.0409814374829e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T84",
+                    "postalcode": "P84",
+                    "address": "A84",
+                    "latlng": {
+                        "lat": "1.370222",
+                        "lng": "103.814844"
+                    },
+                    "lat": "1.370222",
+                    "lng": "103.814844",
+                    "distance": 4.7530474081466e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T32",
+                    "postalcode": "P32",
+                    "address": "A32",
+                    "latlng": {
+                        "lat": "1.373635",
+                        "lng": "103.821256"
+                    },
+                    "lat": "1.373635",
+                    "lng": "103.821256",
+                    "distance": 7.6202296571814e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T86",
+                    "postalcode": "P86",
+                    "address": "A86",
+                    "latlng": {
+                        "lat": "1.362951",
+                        "lng": "103.812069"
+                    },
+                    "lat": "1.362951",
+                    "lng": "103.812069",
+                    "distance": 1.7907928629722e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T72",
+                    "postalcode": "P72",
+                    "address": "A72",
+                    "latlng": {
+                        "lat": "1.362261",
+                        "lng": "103.811459"
+                    },
+                    "lat": "1.362261",
+                    "lng": "103.811459",
+                    "distance": 1.836828494191e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T35",
+                    "postalcode": "P35",
+                    "address": "A35",
+                    "latlng": {
+                        "lat": "1.378466",
+                        "lng": "103.827256"
+                    },
+                    "lat": "1.378466",
+                    "lng": "103.827256",
+                    "distance": 1.5159537018765e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T45",
+                    "postalcode": "P45",
+                    "address": "A45",
+                    "latlng": {
+                        "lat": "1.355314",
+                        "lng": "103.812784"
+                    },
+                    "lat": "1.355314",
+                    "lng": "103.812784",
+                    "distance": 1.0879230474122e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T88",
+                    "postalcode": "P88",
+                    "address": "A88",
+                    "latlng": {
+                        "lat": "1.361303",
+                        "lng": "103.822073"
+                    },
+                    "lat": "1.361303",
+                    "lng": "103.822073",
+                    "distance": 7.9734745308296e-9,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T42",
+                    "postalcode": "P42",
+                    "address": "A42",
+                    "latlng": {
+                        "lat": "1.349835",
+                        "lng": "103.812317"
+                    },
+                    "lat": "1.349835",
+                    "lng": "103.812317",
+                    "distance": 3.104664476203e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T95",
+                    "postalcode": "P95",
+                    "address": "A95",
+                    "latlng": {
+                        "lat": "1.366788",
+                        "lng": "103.834626"
+                    },
+                    "lat": "1.366788",
+                    "lng": "103.834626",
+                    "distance": 1.0648334473278e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T52",
+                    "postalcode": "P52",
+                    "address": "A52",
+                    "latlng": {
+                        "lat": "1.352320",
+                        "lng": "103.820841"
+                    },
+                    "lat": "1.352320",
+                    "lng": "103.820841",
+                    "distance": 1.2726706072313e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T2",
+                    "postalcode": "P2",
+                    "address": "A2",
+                    "latlng": {
+                        "lat": "1.352563",
+                        "lng": "103.823754"
+                    },
+                    "lat": "1.352563",
+                    "lng": "103.823754",
+                    "distance": 1.9427935513494e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T79",
+                    "postalcode": "P79",
+                    "address": "A79",
+                    "latlng": {
+                        "lat": "1.348539",
+                        "lng": "103.817153"
+                    },
+                    "lat": "1.348539",
+                    "lng": "103.817153",
+                    "distance": 2.8368300058561e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T97",
+                    "postalcode": "P97",
+                    "address": "A97",
+                    "latlng": {
+                        "lat": "1.349744",
+                        "lng": "103.819983"
+                    },
+                    "lat": "1.349744",
+                    "lng": "103.819983",
+                    "distance": 2.265730554243e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T17",
+                    "postalcode": "P17",
+                    "address": "A17",
+                    "latlng": {
+                        "lat": "1.347418",
+                        "lng": "103.815563"
+                    },
+                    "lat": "1.347418",
+                    "lng": "103.815563",
+                    "distance": 3.6948172219579e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T12",
+                    "postalcode": "P12",
+                    "address": "A12",
+                    "latlng": {
+                        "lat": "1.344968",
+                        "lng": "103.810052"
+                    },
+                    "lat": "1.344968",
+                    "lng": "103.810052",
+                    "distance": 7.2378917814574e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T22",
+                    "postalcode": "P22",
+                    "address": "A22",
+                    "latlng": {
+                        "lat": "1.342560",
+                        "lng": "103.805612"
+                    },
+                    "lat": "1.342560",
+                    "lng": "103.805612",
+                    "distance": 1.2110819254004e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T73",
+                    "postalcode": "P73",
+                    "address": "A73",
+                    "latlng": {
+                        "lat": "1.340984",
+                        "lng": "103.813848"
+                    },
+                    "lat": "1.340984",
+                    "lng": "103.813848",
+                    "distance": 9.510724993198e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T8",
+                    "postalcode": "P8",
+                    "address": "A8",
+                    "latlng": {
+                        "lat": "1.352210",
+                        "lng": "103.835147"
+                    },
+                    "lat": "1.352210",
+                    "lng": "103.835147",
+                    "distance": 9.9829230829617e-8,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T44",
+                    "postalcode": "P44",
+                    "address": "A44",
+                    "latlng": {
+                        "lat": "1.364597",
+                        "lng": "103.845299"
+                    },
+                    "lat": "1.364597",
+                    "lng": "103.845299",
+                    "distance": 2.3892486757364e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T69",
+                    "postalcode": "P69",
+                    "address": "A69",
+                    "latlng": {
+                        "lat": "1.338717",
+                        "lng": "103.821878"
+                    },
+                    "lat": "1.338717",
+                    "lng": "103.821878",
+                    "distance": 1.194856266636e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T57",
+                    "postalcode": "P57",
+                    "address": "A57",
+                    "latlng": {
+                        "lat": "1.336826",
+                        "lng": "103.823595"
+                    },
+                    "lat": "1.336826",
+                    "lng": "103.823595",
+                    "distance": 1.4786758176648e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T29",
+                    "postalcode": "P29",
+                    "address": "A29",
+                    "latlng": {
+                        "lat": "1.331202",
+                        "lng": "103.812224"
+                    },
+                    "lat": "1.331202",
+                    "lng": "103.812224",
+                    "distance": 2.315006262495e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T9",
+                    "postalcode": "P9",
+                    "address": "A9",
+                    "latlng": {
+                        "lat": "1.334800",
+                        "lng": "103.826400"
+                    },
+                    "lat": "1.334800",
+                    "lng": "103.826400",
+                    "distance": 1.8731607379367e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T76",
+                    "postalcode": "P76",
+                    "address": "A76",
+                    "latlng": {
+                        "lat": "1.333006",
+                        "lng": "103.823294"
+                    },
+                    "lat": "1.333006",
+                    "lng": "103.823294",
+                    "distance": 2.0094459794483e-7,
+                    "color": "red",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T92",
+                    "postalcode": "P92",
+                    "address": "A92",
+                    "latlng": {
+                        "lat": "1.346471",
+                        "lng": "103.846124"
+                    },
+                    "lat": "1.346471",
+                    "lng": "103.846124",
+                    "distance": 2.8169566012298e-7,
+                    "color": "red",
+                    "region": "Test"
+                }
+            ],
+            "C09 Name9": [
+                {
+                    "tid": "T18",
+                    "postalcode": "P18",
+                    "address": "A18",
+                    "latlng": {
+                        "lat": "1.332054",
+                        "lng": "103.779332"
+                    },
+                    "lat": "1.332054",
+                    "lng": "103.779332",
+                    "distance": 1.769778561728e-7,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T83",
+                    "postalcode": "P83",
+                    "address": "A83",
+                    "latlng": {
+                        "lat": "1.333449",
+                        "lng": "103.788544"
+                    },
+                    "lat": "1.333449",
+                    "lng": "103.788544",
+                    "distance": 2.1766125296628e-7,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T4",
+                    "postalcode": "P4",
+                    "address": "A4",
+                    "latlng": {
+                        "lat": "1.348185",
+                        "lng": "103.787491"
+                    },
+                    "lat": "1.348185",
+                    "lng": "103.787491",
+                    "distance": 7.7445846109246e-8,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T47",
+                    "postalcode": "P47",
+                    "address": "A47",
+                    "latlng": {
+                        "lat": "1.351764",
+                        "lng": "103.771758"
+                    },
+                    "lat": "1.351764",
+                    "lng": "103.771758",
+                    "distance": 4.674049909199e-9,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T46",
+                    "postalcode": "P46",
+                    "address": "A46",
+                    "latlng": {
+                        "lat": "1.351807",
+                        "lng": "103.790081"
+                    },
+                    "lat": "1.351807",
+                    "lng": "103.790081",
+                    "distance": 9.0058750918422e-8,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T37",
+                    "postalcode": "P37",
+                    "address": "A37",
+                    "latlng": {
+                        "lat": "1.355488",
+                        "lng": "103.786940"
+                    },
+                    "lat": "1.355488",
+                    "lng": "103.786940",
+                    "distance": 5.6992277168187e-8,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T67",
+                    "postalcode": "P67",
+                    "address": "A67",
+                    "latlng": {
+                        "lat": "1.358969",
+                        "lng": "103.757309"
+                    },
+                    "lat": "1.358969",
+                    "lng": "103.757309",
+                    "distance": 8.1448138639305e-8,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T70",
+                    "postalcode": "P70",
+                    "address": "A70",
+                    "latlng": {
+                        "lat": "1.356712",
+                        "lng": "103.753550"
+                    },
+                    "lat": "1.356712",
+                    "lng": "103.753550",
+                    "distance": 1.1890482647188e-7,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T58",
+                    "postalcode": "P58",
+                    "address": "A58",
+                    "latlng": {
+                        "lat": "1.372550",
+                        "lng": "103.770475"
+                    },
+                    "lat": "1.372550",
+                    "lng": "103.770475",
+                    "distance": 9.2161568425888e-8,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T15",
+                    "postalcode": "P15",
+                    "address": "A15",
+                    "latlng": {
+                        "lat": "1.373489",
+                        "lng": "103.787251"
+                    },
+                    "lat": "1.373489",
+                    "lng": "103.787251",
+                    "distance": 1.5949559682497e-7,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T43",
+                    "postalcode": "P43",
+                    "address": "A43",
+                    "latlng": {
+                        "lat": "1.383592",
+                        "lng": "103.785763"
+                    },
+                    "lat": "1.383592",
+                    "lng": "103.785763",
+                    "distance": 2.9003866119577e-7,
+                    "color": "yellow",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T23",
+                    "postalcode": "P23",
+                    "address": "A23",
+                    "latlng": {
+                        "lat": "1.346511",
+                        "lng": "103.720652"
+                    },
+                    "lat": "1.346511",
+                    "lng": "103.720652",
+                    "distance": 8.670945759696e-7,
+                    "color": "yellow",
+                    "region": "Test"
+                }
+            ],
+            "C11 Name11": [
+                {
+                    "tid": "T87",
+                    "postalcode": "P87",
+                    "address": "A87",
+                    "latlng": {
+                        "lat": "1.357289",
+                        "lng": "103.862451"
+                    },
+                    "lat": "1.357289",
+                    "lng": "103.862451",
+                    "distance": 1.8267054613463e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T71",
+                    "postalcode": "P71",
+                    "address": "A71",
+                    "latlng": {
+                        "lat": "1.348296",
+                        "lng": "103.855709"
+                    },
+                    "lat": "1.348296",
+                    "lng": "103.855709",
+                    "distance": 1.9980966040274e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T78",
+                    "postalcode": "P78",
+                    "address": "A78",
+                    "latlng": {
+                        "lat": "1.356282",
+                        "lng": "103.877104"
+                    },
+                    "lat": "1.356282",
+                    "lng": "103.877104",
+                    "distance": 8.1115526483932e-8,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T62",
+                    "postalcode": "P62",
+                    "address": "A62",
+                    "latlng": {
+                        "lat": "1.342339",
+                        "lng": "103.868156"
+                    },
+                    "lat": "1.342339",
+                    "lng": "103.868156",
+                    "distance": 4.4204114463257e-8,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T19",
+                    "postalcode": "P19",
+                    "address": "A19",
+                    "latlng": {
+                        "lat": "1.341474",
+                        "lng": "103.858343"
+                    },
+                    "lat": "1.341474",
+                    "lng": "103.858343",
+                    "distance": 1.4355225228165e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T75",
+                    "postalcode": "P75",
+                    "address": "A75",
+                    "latlng": {
+                        "lat": "1.329708",
+                        "lng": "103.870601"
+                    },
+                    "lat": "1.329708",
+                    "lng": "103.870601",
+                    "distance": 6.0695234535695e-8,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T91",
+                    "postalcode": "P91",
+                    "address": "A91",
+                    "latlng": {
+                        "lat": "1.361266",
+                        "lng": "103.891648"
+                    },
+                    "lat": "1.361266",
+                    "lng": "103.891648",
+                    "distance": 1.7607403885049e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T63",
+                    "postalcode": "P63",
+                    "address": "A63",
+                    "latlng": {
+                        "lat": "1.324357",
+                        "lng": "103.877281"
+                    },
+                    "lat": "1.324357",
+                    "lng": "103.877281",
+                    "distance": 7.8983578428177e-8,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T53",
+                    "postalcode": "P53",
+                    "address": "A53",
+                    "latlng": {
+                        "lat": "1.355187",
+                        "lng": "103.900080"
+                    },
+                    "lat": "1.355187",
+                    "lng": "103.900080",
+                    "distance": 1.908218055687e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T89",
+                    "postalcode": "P89",
+                    "address": "A89",
+                    "latlng": {
+                        "lat": "1.317667",
+                        "lng": "103.862072"
+                    },
+                    "lat": "1.317667",
+                    "lng": "103.862072",
+                    "distance": 2.5309304933556e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T25",
+                    "postalcode": "P25",
+                    "address": "A25",
+                    "latlng": {
+                        "lat": "1.339102",
+                        "lng": "103.903607"
+                    },
+                    "lat": "1.339102",
+                    "lng": "103.903607",
+                    "distance": 1.699226107733e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T7",
+                    "postalcode": "P7",
+                    "address": "A7",
+                    "latlng": {
+                        "lat": "1.342343",
+                        "lng": "103.916097"
+                    },
+                    "lat": "1.342343",
+                    "lng": "103.916097",
+                    "distance": 3.9794033574754e-7,
+                    "color": "green",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T11",
+                    "postalcode": "P11",
+                    "address": "A11",
+                    "latlng": {
+                        "lat": "1.307622",
+                        "lng": "103.897052"
+                    },
+                    "lat": "1.307622",
+                    "lng": "103.897052",
+                    "distance": 4.1221876001299e-7,
+                    "color": "green",
+                    "region": "Test"
+                }
+            ],
+            "C01 Name1": [
+                {
+                    "tid": "T59",
+                    "postalcode": "P59",
+                    "address": "A59",
+                    "latlng": {
+                        "lat": "1.406662",
+                        "lng": "103.780138"
+                    },
+                    "lat": "1.406662",
+                    "lng": "103.780138",
+                    "distance": 1.8320422163131e-7,
+                    "color": "blue",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T81",
+                    "postalcode": "P81",
+                    "address": "A81",
+                    "latlng": {
+                        "lat": "1.404382",
+                        "lng": "103.762831"
+                    },
+                    "lat": "1.404382",
+                    "lng": "103.762831",
+                    "distance": 1.6320274121582e-8,
+                    "color": "blue",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T66",
+                    "postalcode": "P66",
+                    "address": "A66",
+                    "latlng": {
+                        "lat": "1.423879",
+                        "lng": "103.767733"
+                    },
+                    "lat": "1.423879",
+                    "lng": "103.767733",
+                    "distance": 1.4517773322773e-7,
+                    "color": "blue",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T27",
+                    "postalcode": "P27",
+                    "address": "A27",
+                    "latlng": {
+                        "lat": "1.400747",
+                        "lng": "103.737030"
+                    },
+                    "lat": "1.400747",
+                    "lng": "103.737030",
+                    "distance": 1.1291321424364e-7,
+                    "color": "blue",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T90",
+                    "postalcode": "P90",
+                    "address": "A90",
+                    "latlng": {
+                        "lat": "1.392872",
+                        "lng": "103.730431"
+                    },
+                    "lat": "1.392872",
+                    "lng": "103.730431",
+                    "distance": 2.4366158775017e-7,
+                    "color": "blue",
+                    "region": "Test"
+                }
+            ],
+            "C08 Name8": [
+                {
+                    "tid": "T33",
+                    "postalcode": "P33",
+                    "address": "A33",
+                    "latlng": {
+                        "lat": "1.267437",
+                        "lng": "103.836989"
+                    },
+                    "lat": "1.267437",
+                    "lng": "103.836989",
+                    "distance": 2.2712994899182e-7,
+                    "color": "brown",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T24",
+                    "postalcode": "P24",
+                    "address": "A24",
+                    "latlng": {
+                        "lat": "1.265254",
+                        "lng": "103.847562"
+                    },
+                    "lat": "1.265254",
+                    "lng": "103.847562",
+                    "distance": 3.1099149058092e-7,
+                    "color": "brown",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T34",
+                    "postalcode": "P34",
+                    "address": "A34",
+                    "latlng": {
+                        "lat": "1.264565",
+                        "lng": "103.808671"
+                    },
+                    "lat": "1.264565",
+                    "lng": "103.808671",
+                    "distance": 4.8910065615719e-7,
+                    "color": "brown",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T94",
+                    "postalcode": "P94",
+                    "address": "A94",
+                    "latlng": {
+                        "lat": "1.298912",
+                        "lng": "103.834814"
+                    },
+                    "lat": "1.298912",
+                    "lng": "103.834814",
+                    "distance": 5.4864971179503e-9,
+                    "color": "brown",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T85",
+                    "postalcode": "P85",
+                    "address": "A85",
+                    "latlng": {
+                        "lat": "1.303123",
+                        "lng": "103.824973"
+                    },
+                    "lat": "1.303123",
+                    "lng": "103.824973",
+                    "distance": 5.3003025696886e-8,
+                    "color": "brown",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T21",
+                    "postalcode": "P21",
+                    "address": "A21",
+                    "latlng": {
+                        "lat": "1.316167",
+                        "lng": "103.848431"
+                    },
+                    "lat": "1.316167",
+                    "lng": "103.848431",
+                    "distance": 1.9474822550116e-7,
+                    "color": "brown",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T28",
+                    "postalcode": "P28",
+                    "address": "A28",
+                    "latlng": {
+                        "lat": "1.316903",
+                        "lng": "103.849377"
+                    },
+                    "lat": "1.316903",
+                    "lng": "103.849377",
+                    "distance": 2.1250092145274e-7,
+                    "color": "brown",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T31",
+                    "postalcode": "P31",
+                    "address": "A31",
+                    "latlng": {
+                        "lat": "1.325064",
+                        "lng": "103.830033"
+                    },
+                    "lat": "1.325064",
+                    "lng": "103.830033",
+                    "distance": 2.8909389220431e-7,
+                    "color": "brown",
+                    "region": "Test"
+                }
+            ],
+            "C03 Name3": [
+                {
+                    "tid": "T50",
+                    "postalcode": "P50",
+                    "address": "A50",
+                    "latlng": {
+                        "lat": "1.445517",
+                        "lng": "103.831403"
+                    },
+                    "lat": "1.445517",
+                    "lng": "103.831403",
+                    "distance": 1.4616116236594e-7,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T39",
+                    "postalcode": "P39",
+                    "address": "A39",
+                    "latlng": {
+                        "lat": "1.441644",
+                        "lng": "103.825823"
+                    },
+                    "lat": "1.441644",
+                    "lng": "103.825823",
+                    "distance": 7.3745518964008e-8,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T16",
+                    "postalcode": "P16",
+                    "address": "A16",
+                    "latlng": {
+                        "lat": "1.434850",
+                        "lng": "103.835119"
+                    },
+                    "lat": "1.434850",
+                    "lng": "103.835119",
+                    "distance": 1.028918158207e-7,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T80",
+                    "postalcode": "P80",
+                    "address": "A80",
+                    "latlng": {
+                        "lat": "1.434296",
+                        "lng": "103.829603"
+                    },
+                    "lat": "1.434296",
+                    "lng": "103.829603",
+                    "distance": 5.2428540580704e-8,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T30",
+                    "postalcode": "P30",
+                    "address": "A30",
+                    "latlng": {
+                        "lat": "1.438932",
+                        "lng": "103.810600"
+                    },
+                    "lat": "1.438932",
+                    "lng": "103.810600",
+                    "distance": 5.1671826070236e-8,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T3",
+                    "postalcode": "P3",
+                    "address": "A3",
+                    "latlng": {
+                        "lat": "1.422853",
+                        "lng": "103.817479"
+                    },
+                    "lat": "1.422853",
+                    "lng": "103.817479",
+                    "distance": 8.7983192611648e-9,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T56",
+                    "postalcode": "P56",
+                    "address": "A56",
+                    "latlng": {
+                        "lat": "1.418974",
+                        "lng": "103.820687"
+                    },
+                    "lat": "1.418974",
+                    "lng": "103.820687",
+                    "distance": 2.8173534372418e-8,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T20",
+                    "postalcode": "P20",
+                    "address": "A20",
+                    "latlng": {
+                        "lat": "1.404339",
+                        "lng": "103.814786"
+                    },
+                    "lat": "1.404339",
+                    "lng": "103.814786",
+                    "distance": 1.7659996397226e-7,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T82",
+                    "postalcode": "P82",
+                    "address": "A82",
+                    "latlng": {
+                        "lat": "1.400961",
+                        "lng": "103.812204"
+                    },
+                    "lat": "1.400961",
+                    "lng": "103.812204",
+                    "distance": 2.3625081459259e-7,
+                    "color": "purple",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T13",
+                    "postalcode": "P13",
+                    "address": "A13",
+                    "latlng": {
+                        "lat": "1.439669",
+                        "lng": "103.782139"
+                    },
+                    "lat": "1.439669",
+                    "lng": "103.782139",
+                    "distance": 4.3144281792159e-7,
+                    "color": "purple",
+                    "region": "Test"
+                }
+            ],
+            "C10 Name10": [
+                {
+                    "tid": "T48",
+                    "postalcode": "P48",
+                    "address": "A48",
+                    "latlng": {
+                        "lat": "1.378022",
+                        "lng": "103.852105"
+                    },
+                    "lat": "1.378022",
+                    "lng": "103.852105",
+                    "distance": 1.0482365766474e-7,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T14",
+                    "postalcode": "P14",
+                    "address": "A14",
+                    "latlng": {
+                        "lat": "1.372702",
+                        "lng": "103.857401"
+                    },
+                    "lat": "1.372702",
+                    "lng": "103.857401",
+                    "distance": 1.0803611614885e-7,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T93",
+                    "postalcode": "P93",
+                    "address": "A93",
+                    "latlng": {
+                        "lat": "1.383462",
+                        "lng": "103.844862"
+                    },
+                    "lat": "1.383462",
+                    "lng": "103.844862",
+                    "distance": 1.609211544162e-7,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T36",
+                    "postalcode": "P36",
+                    "address": "A36",
+                    "latlng": {
+                        "lat": "1.376868",
+                        "lng": "103.841900"
+                    },
+                    "lat": "1.376868",
+                    "lng": "103.841900",
+                    "distance": 2.385139329917e-7,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T60",
+                    "postalcode": "P60",
+                    "address": "A60",
+                    "latlng": {
+                        "lat": "1.385712",
+                        "lng": "103.859128"
+                    },
+                    "lat": "1.385712",
+                    "lng": "103.859128",
+                    "distance": 2.2818420996947e-8,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T61",
+                    "postalcode": "P61",
+                    "address": "A61",
+                    "latlng": {
+                        "lat": "1.376435",
+                        "lng": "103.879087"
+                    },
+                    "lat": "1.376435",
+                    "lng": "103.879087",
+                    "distance": 8.9201717308378e-8,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T5",
+                    "postalcode": "P5",
+                    "address": "A5",
+                    "latlng": {
+                        "lat": "1.407180",
+                        "lng": "103.888896"
+                    },
+                    "lat": "1.407180",
+                    "lng": "103.888896",
+                    "distance": 2.463113141691e-7,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T38",
+                    "postalcode": "P38",
+                    "address": "A38",
+                    "latlng": {
+                        "lat": "1.413275",
+                        "lng": "103.884537"
+                    },
+                    "lat": "1.413275",
+                    "lng": "103.884537",
+                    "distance": 2.7423047140666e-7,
+                    "color": "grey",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T26",
+                    "postalcode": "P26",
+                    "address": "A26",
+                    "latlng": {
+                        "lat": "1.405265",
+                        "lng": "103.897110"
+                    },
+                    "lat": "1.405265",
+                    "lng": "103.897110",
+                    "distance": 3.5494771109344e-7,
+                    "color": "grey",
+                    "region": "Test"
+                }
+            ],
+            "C06 Name6": [
+                {
+                    "tid": "T99",
+                    "postalcode": "P99",
+                    "address": "A99",
+                    "latlng": {
+                        "lat": "1.327171",
+                        "lng": "103.762274"
+                    },
+                    "lat": "1.327171",
+                    "lng": "103.762274",
+                    "distance": 1.8367129130323e-7,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T65",
+                    "postalcode": "P65",
+                    "address": "A65",
+                    "latlng": {
+                        "lat": "1.313851",
+                        "lng": "103.754707"
+                    },
+                    "lat": "1.313851",
+                    "lng": "103.754707",
+                    "distance": 9.5682153955209e-8,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T6",
+                    "postalcode": "P6",
+                    "address": "A6",
+                    "latlng": {
+                        "lat": "1.323799",
+                        "lng": "103.790273"
+                    },
+                    "lat": "1.323799",
+                    "lng": "103.790273",
+                    "distance": 2.5994395159723e-7,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T10",
+                    "postalcode": "P10",
+                    "address": "A10",
+                    "latlng": {
+                        "lat": "1.308978",
+                        "lng": "103.785090"
+                    },
+                    "lat": "1.308978",
+                    "lng": "103.785090",
+                    "distance": 8.6035341971711e-8,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T49",
+                    "postalcode": "P49",
+                    "address": "A49",
+                    "latlng": {
+                        "lat": "1.296420",
+                        "lng": "103.759712"
+                    },
+                    "lat": "1.296420",
+                    "lng": "103.759712",
+                    "distance": 4.2948126336856e-8,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T68",
+                    "postalcode": "P68",
+                    "address": "A68",
+                    "latlng": {
+                        "lat": "1.303669",
+                        "lng": "103.783455"
+                    },
+                    "lat": "1.303669",
+                    "lng": "103.783455",
+                    "distance": 6.2189621290651e-8,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T96",
+                    "postalcode": "P96",
+                    "address": "A96",
+                    "latlng": {
+                        "lat": "1.296613",
+                        "lng": "103.750096"
+                    },
+                    "lat": "1.296613",
+                    "lng": "103.750096",
+                    "distance": 1.2567219417013e-7,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T40",
+                    "postalcode": "P40",
+                    "address": "A40",
+                    "latlng": {
+                        "lat": "1.297908",
+                        "lng": "103.743709"
+                    },
+                    "lat": "1.297908",
+                    "lng": "103.743709",
+                    "distance": 2.0730268388791e-7,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T100",
+                    "postalcode": "P100",
+                    "address": "A100",
+                    "latlng": {
+                        "lat": "1.321679",
+                        "lng": "103.799086"
+                    },
+                    "lat": "1.321679",
+                    "lng": "103.799086",
+                    "distance": 3.7221078548459e-7,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T51",
+                    "postalcode": "P51",
+                    "address": "A51",
+                    "latlng": {
+                        "lat": "1.279858",
+                        "lng": "103.757461"
+                    },
+                    "lat": "1.279858",
+                    "lng": "103.757461",
+                    "distance": 2.1349280062899e-7,
+                    "color": "white",
+                    "region": "Test"
+                },
+                {
+                    "tid": "T77",
+                    "postalcode": "P77",
+                    "address": "A77",
+                    "latlng": {
+                        "lat": "1.269688",
+                        "lng": "103.774972"
+                    },
+                    "lat": "1.269688",
+                    "lng": "103.774972",
+                    "distance": 3.6064677628937e-7,
+                    "color": "white",
+                    "region": "Test"
+                }
+            ]
+        }
+    },
+    "Dijkstra"
+]
