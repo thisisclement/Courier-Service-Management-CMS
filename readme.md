@@ -5,9 +5,9 @@
 </p>
 
 #### Contents
-- [Abstract](https://github.com/thisisclement/Courier-Management-Service-CMS#abstract)
-- [Problem statement](https://github.com/thisisclement/Courier-Management-Service-CMS#problem-statement)
-- [Features](https://github.com/thisisclement/Courier-Management-Service-CMS#features)
+- [Abstract](https://github.com/thisisclement/Courier-Service-Management-CMS#abstract)
+- [Problem statement](https://github.com/thisisclement/Courier-Service-Management-CMS#problem-statement)
+- [Features](https://github.com/thisisclement/Courier-Service-Management-CMS#features)
 
 ## Abstract
 
