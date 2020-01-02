@@ -17,6 +17,10 @@ In many courier companies, the user interface is not intuitive enough and the co
 The design of the system is designed using Human Computer Interaction (HCI) Design Approaches in mind. The tools and languages used are mainly Bootstrap, HTML, JavaScript, PHP and implemented using the Wordpress Content Management System (CMS).
 Features include responsive design, on-the-fly form validation, one-click address lookup, simplified request logger, verification of mobile number and automated confirmation email.
 
+This is the first of two parts to this project:
+1. Web application
+2. Mobile application (You can view it [here](https://github.com/thisisclement/Courier-Service-Management-Android))
+
 ## Problem statement
 
 Due to the improvements in technology in faster processors in mobile phone chips and apps, the general user has shorter attention span. Many courier service websites do not have enough user-friendly user interfaces and have complicated details to be filled in by the user. Furthermore, the backend and frontend processes are fragmented and dilutes the customer satisfaction. Thus, there is a need for an end to end solution to plug this gap.
